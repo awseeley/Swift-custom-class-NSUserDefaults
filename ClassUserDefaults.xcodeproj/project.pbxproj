@@ -13,6 +13,7 @@
 		946558211A42B74E008BA213 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 946558201A42B74E008BA213 /* Images.xcassets */; };
 		946558241A42B74E008BA213 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 946558221A42B74E008BA213 /* LaunchScreen.xib */; };
 		946558301A42B74E008BA213 /* ClassUserDefaultsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9465582F1A42B74E008BA213 /* ClassUserDefaultsTests.swift */; };
+		9465583A1A42B791008BA213 /* Truck.swift in Sources */ = {isa = PBXBuildFile; fileRef = 946558391A42B791008BA213 /* Truck.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		946558291A42B74E008BA213 /* ClassUserDefaultsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ClassUserDefaultsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9465582E1A42B74E008BA213 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9465582F1A42B74E008BA213 /* ClassUserDefaultsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClassUserDefaultsTests.swift; sourceTree = "<group>"; };
+		946558391A42B791008BA213 /* Truck.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Truck.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 				946558191A42B74E008BA213 /* AppDelegate.swift */,
 				9465581B1A42B74E008BA213 /* ViewController.swift */,
 				9465581D1A42B74E008BA213 /* Main.storyboard */,
+				946558391A42B791008BA213 /* Truck.swift */,
 				946558201A42B74E008BA213 /* Images.xcassets */,
 				946558221A42B74E008BA213 /* LaunchScreen.xib */,
 				946558171A42B74E008BA213 /* Supporting Files */,
@@ -214,6 +217,7 @@
 			files = (
 				9465581C1A42B74E008BA213 /* ViewController.swift in Sources */,
 				9465581A1A42B74E008BA213 /* AppDelegate.swift in Sources */,
+				9465583A1A42B791008BA213 /* Truck.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
