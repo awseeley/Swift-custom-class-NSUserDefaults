@@ -5,7 +5,7 @@ Source code for saving a custom class with NSUserDefaults in Swift. Using Xcode 
 
 Tutorial:
 
-http://youtu.be/x9w6I_s_zHw
+https://www.youtube.com/watch?v=v3gwIhLyyMo
 
 Check out our Website: http://www.seemuapps.com
 
